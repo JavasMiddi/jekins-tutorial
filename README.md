@@ -1,1 +1,1 @@
-# jekins-tutorial
+# jenkins-tutorial
